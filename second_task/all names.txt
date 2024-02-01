@@ -5,6 +5,7 @@ Pascal Zemella
 Collin Wacker
 Leonard Rolf
 Hergen Hentschel
-Marius Schneider
+Chadi Habib
 Maximilian Zorko
+Marius Schneider
 Tom Gluth
