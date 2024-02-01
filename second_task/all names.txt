@@ -1,3 +1,13 @@
 Daniel Schäftner
-Mark Schaab
+
+<<<<<< niklas.schmid
 Niklas Schmid
+======
+Marc Bernad
+Pascal Zemella 
+Collin Wacker
+Leonard Rolf
+Hergen Hentschel
+Maximilian Zorko
+Tom Gluth
+Mark Schaab
