@@ -1,9 +1,11 @@
 Daniel Schäftner
 Mark Schaab
-Marc Bernad
 Pascal Zemella 
 Collin Wacker
 Leonard Rolf
 Hergen Hentschel
 Maximilian Zorko
 Tom Gluth
+
+
+Kemal Bagci
