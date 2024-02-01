@@ -9,7 +9,5 @@ Leonard Rolf
 Hergen Hentschel
 Chadi Habib
 Maximilian Zorko
-Tom Gluth
-Johannes Rudolph
 Marius Schneider
-
+Lukas Lerner
