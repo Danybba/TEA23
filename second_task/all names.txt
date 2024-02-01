@@ -1,13 +1,17 @@
 Daniel Schäftner
-
-<<<<<< niklas.schmid
 Niklas Schmid
-======
+Tom Gluth
+Mark Schaab
+Gero Schänzle
 Marc Bernad
 Pascal Zemella 
 Collin Wacker
 Leonard Rolf
 Hergen Hentschel
+Chadi Habib
 Maximilian Zorko
 Tom Gluth
-Mark Schaab
+Johannes Rudolph
+Marius Schneider
+
+
