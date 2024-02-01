@@ -1,5 +1,7 @@
 Daniel Schäftner
+Tom Gluth
 Mark Schaab
+Gero Schänzle
 Marc Bernad
 Pascal Zemella 
 Collin Wacker
@@ -8,4 +10,3 @@ Hergen Hentschel
 Chadi Habib
 Maximilian Zorko
 Marius Schneider
-Tom Gluth
