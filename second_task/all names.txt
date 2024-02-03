@@ -1,6 +1,7 @@
 Daniel Schäftner
 Tom Gluth
 Mark Schaab
+Simon Bärenweiler
 Gero Schänzle
 Marc Bernad
 Pascal Zemella 
