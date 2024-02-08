@@ -1,7 +1,4 @@
- 
 Daniel Schäftner 
-Christoph Zinser
-Daniel Schäftner
 Tom Gluth
 Mark Schaab
 Simon Bärenweiler
@@ -15,10 +12,11 @@ Levin Köppe
 Leo Leberer
 Chadi Habib
 Maximilian Zorko
-Tom Gluth
 Johannes Rudolph
+Edgar Malinowsky
 Marius Schneider
-Valentin Denz
-christoph_zinser
 Simon Kieslich
-
+Nathalie Nuber
+Valentin Denz
+Simon Kieslich
+Christoph Zinser
