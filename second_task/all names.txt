@@ -20,3 +20,5 @@ Johannes Rudolph
 Marius Schneider
 Valentin Denz
 christoph_zinser
+Simon Kieslich
+
