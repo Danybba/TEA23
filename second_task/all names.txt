@@ -1,4 +1,4 @@
-Daniel Schäftner
+Daniel Schäftner 
 Tom Gluth
 Mark Schaab
 Simon Bärenweiler
@@ -21,4 +21,5 @@ Raphael Boelts
 Nathalie Nuber
 Valentin Denz
 Simon Kieslich
+Christoph Zinser
 
