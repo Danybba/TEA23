@@ -1,4 +1,4 @@
-Daniel Schäftner
+Daniel Schäftner 
 Tom Gluth
 Mark Schaab
 <<<<<<< HEAD
@@ -15,8 +15,15 @@ Levin Köppe
 Leo Leberer
 Chadi Habib
 Maximilian Zorko
-Tom Gluth
 Johannes Rudolph
+Edgar Malinowsky
 Marius Schneider
+Manuel Huber
+Pascal Muskalla
+Raphael Boelts
+Nathalie Nuber
+Valentin Denz
+Simon Kieslich
+Christoph Zinser
 
 >>>>>>> 54c48a16d4c6ff398006babc50ba6de75c5ee96b
