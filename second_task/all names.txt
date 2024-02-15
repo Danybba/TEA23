@@ -1,9 +1,6 @@
 Daniel Schäftner 
 Tom Gluth
 Mark Schaab
-<<<<<<< HEAD
-Benjamin Frommhold
-=======
 Simon Bärenweiler
 Gero Schänzle
 Marc Bernad
@@ -26,4 +23,3 @@ Valentin Denz
 Simon Kieslich
 Christoph Zinser
 
->>>>>>> 54c48a16d4c6ff398006babc50ba6de75c5ee96b
