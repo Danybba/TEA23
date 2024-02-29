@@ -24,4 +24,5 @@ Simon Kieslich
 Christoph Zinser
 Tobias Venzky-Stalling
 Benjamin Frommhold
+Melvin Suljanovic
 Paul Schabram
