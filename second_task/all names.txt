@@ -1,4 +1,4 @@
-Daniel Schäftner
+Daniel Schäftner 
 Tom Gluth
 Mark Schaab
 Simon Bärenweiler
@@ -12,11 +12,16 @@ Levin Köppe
 Leo Leberer
 Chadi Habib
 Maximilian Zorko
-Tom Gluth
 Johannes Rudolph
+Edgar Malinowsky
 Marius Schneider
-
-
-
-
 Kemal Bagci
+Manuel Huber
+Pascal Muskalla
+Raphael Boelts
+Nathalie Nuber
+Valentin Denz
+Simon Kieslich
+Christoph Zinser
+Tobias Venzky-Stalling
+Benjamin Frommhold
