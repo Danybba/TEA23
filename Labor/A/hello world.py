@@ -63,14 +63,35 @@
 # if answer != "Picasso":
 #     print(answer + " is wrong!") 
 
-age = int(input("What is your age?"))
+# age = int(input("What is your age?"))
 
-limit_age = age >= 18
+# limit_age = age >= 18
 
-if not limit_age:
-    print("too young!")
+# if not limit_age:
+#     print("too young!")
 
-var = 9
+# var = 9
 
-if True or (var == 10):
+# if True or (var == 10):
     
+# def greet_user(name):
+#     print(name)
+#     print("Welcome back")
+#     print("!!!")
+
+
+# greet_user("Anna")
+# greet_user("Emil")
+
+# greet_user("xxxxxxxxxxxxxxxxxxxxxxxxxxx")
+
+import pygal
+
+pie = pygal.Pie()
+
+pie.title = "Time spend on social network"
+pie.add("Twitter", 47)
+pie.add("Facebook", 23)
+pie.add("Instagram", 30)
+
+pie.render_in_browser()
